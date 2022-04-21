@@ -1,2 +1,2 @@
 # Hangman 
- some hangman fun
+ some hangman fun!
